@@ -1,0 +1,13 @@
+{
+  "name": "Vue Material - Default",
+  "keywords": [
+    "vue-material",
+    "material-design",
+    "vue"
+  ],
+  "dependencies": {
+    "vue": "latest",
+    "vue-material": "latest",
+    "vue-router": "3.4.7"
+  }
+}
